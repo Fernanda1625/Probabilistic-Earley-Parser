@@ -1,4 +1,4 @@
-## Universidad Nacional de San Agustiín
+## Universidad Nacional de San Agustín
 ## Escuela Profesional de Ciencia de la Computación
 -----------------------------------------------------------
 # Earley Parser Probabilístico 
