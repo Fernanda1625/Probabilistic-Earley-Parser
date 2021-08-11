@@ -1,0 +1,13 @@
+#->TERMINAL -> NON TERMINAL -> PROBABILITY OF TERMINAL
+
+al->Det
+el->Det
+la->Det
+avion->Noun
+perro->Noun
+gato->Noun
+policia->Noun
+ladron->Noun
+pistola->Noun
+con->Prep
+disparo->Verb

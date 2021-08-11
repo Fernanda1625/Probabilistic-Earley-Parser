@@ -1,0 +1,13 @@
+#-> NON TERMINAL -> NON TERMINAL | TERMINAL -> PROBABILITY OF PRODUCTION
+S->Aux NP VP->0.15
+NP->Pro->0.40
+VP->V NP NP->0.05
+NP->Nom->0.05
+NP->PNoun->0.35
+Nom->Noun->0.75
+Aux->Can->0.40
+NP->Pro->0.40
+Pro->you->0.40
+Verb->book->0.30
+PNoun->TWA->0.40
+Noun->flights->0.50

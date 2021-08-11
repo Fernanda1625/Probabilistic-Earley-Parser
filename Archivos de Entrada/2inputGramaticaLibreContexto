@@ -1,0 +1,12 @@
+#-> NON TERMINAL -> NON TERMINAL | TERMINAL -> PROBABILITY OF PRODUCTION
+
+S->NP VP->1
+NP->Det Nominal->0.5
+NP->Det Nominal PP->0.5
+VP->Verb->0.25
+VP->Verb NP->0.25
+VP->Verb NP PP->0.25
+VP->Verb PP->0.25
+PP->Prep NP->1
+Nominal->Noun->0.7
+Nominal->Noun Nominal->0.3
